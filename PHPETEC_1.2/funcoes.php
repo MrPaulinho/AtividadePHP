@@ -39,7 +39,51 @@ function exer2()
         </head>
         <body>
             <main>
-
+                <div class="Developer">
+                    <h3>Informe os números e saiba:</h3>
+                </div>
+                <form action="calculo02.php" method = "POST">
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                    <div class="menu">
+                        <label for="num01">Informe o número:</label>
+                        <input type="number" name = "num01" value = "num01">
+                    </div>
+                </form>
             </main>
         </body>
 
