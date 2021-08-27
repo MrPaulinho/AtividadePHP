@@ -36,7 +36,6 @@
         elseif($num01 >= 76 and $num01 <= 100){
             $result4 = $result4 + 1;
         }
-
         /*num02*/
         /*condicao [0-25]*/
         if ($num02 >= 0 and $num02 <= 25){
@@ -54,8 +53,6 @@
         elseif($num02 >= 76 and $num02 <= 100){
             $result4 = $result4 + 1;
         }
-
-
         /*num03*/
         /*condicao [0-25]*/
         if ($num03 >= 0 and $num03 <= 25){
@@ -73,7 +70,6 @@
         elseif($num03 >= 76 and $num03 <= 100){
             $result4 = $result4 + 1;
         }
-
         /*num04*/
         /*condicao [0-25]*/
         if ($num04 >= 0 and $num04 <= 25){
@@ -91,7 +87,6 @@
         elseif($num04 >= 76 and $num04 <= 100){
             $result4 = $result4 + 1;
         }
-
         /*num05*/
         /*condicao [0-25]*/
         if ($num05 >= 0 and $num05 <= 25){
